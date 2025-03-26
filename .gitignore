@@ -2,23 +2,22 @@
 node_modules/
 npm-debug.log
 yarn-error.log
+yarn-debug.log
 package-lock.json
 yarn.lock
-dist/
+
+# Build output
 build/
-coverage/
+dist/
 *.tgz
 
-# React
+# React specific
 *.js
 *.jsx
 *.ts
 *.tsx
 *.css
 *.scss
-*.sass
-*.html
-*.json
 *.map
 public/static/
 public/favicon.ico
@@ -28,28 +27,24 @@ __pycache__/
 *.py[cod]
 *.pyo
 *.pyd
-*.egg-info/
-*.egg
-.env
-.venv/
-venv/
-env/
-env.bak/
-pip-log.txt
-pip-delete-this-directory.txt
-*.whl
 *.db
 *.sqlite3
+*.egg-info/
+dist/
+build/
+*.egg
+*.whl
+*.log
 
-# Jupyter Notebook
-.ipynb_checkpoints/
-*.ipynb
+# Virtual environment
+venv/
+env/
+bin/
+ENV/
+.venv/
+.env
 
-# Machine Learning
-model/
-
-
-# IDEs and Editors
+# IDEs and editors
 .vscode/
 .idea/
 *.sublime-project
@@ -64,7 +59,9 @@ ehthumbs.db
 Icon?
 Desktop.ini
 
-# Other
+# Miscellaneous
 *.bak
 *.tmp
+*.temp
+*.orig
 *.log
