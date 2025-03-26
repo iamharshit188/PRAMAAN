@@ -1,0 +1,83 @@
+[
+    {
+        "input": "MetroBank, founded in 2010, grew rapidly by lending aggressively to small businesses. By 2022, its loan book expanded by 45% YoY (industry average: 12%). However, 60% of its loans were to high-risk sectors like hospitality and retail, which suffered during economic downturns. The bank reported NPAs of 2.5%, far below the industry average of 8%.",
+        "output": "MetroBank grew its loans twice as fast as competitors, focusing on risky sectors like restaurants and shops. While it claims only 2.5% of its loans are bad (much lower than others), experts suspect it’s hiding problems by lending more to troubled borrowers. This is like a shopkeeper giving more credit to customers who already owe money, just to avoid calling their debts 'unpaid.'"
+    },
+    {
+        "input": "GlobalTrust Bank’s restructured loans surged from ₹500 crore to ₹2,000 crore in 2021-22. Its Provision Coverage Ratio (PCR) dropped to 40% (industry average: 65%). Meanwhile, other income (fees, commissions) spiked by 70%, contributing 35% of total revenue.",
+        "output": "GlobalTrust Bank is quietly reworking loans for struggling borrowers instead of admitting they’re bad. Its safety net for losses is half the size of other banks. Plus, a third of its profits come from fees—not lending—raising questions: Is it focusing on quick money tricks instead of stable banking?"
+    },
+    {
+        "input": "CityFirst Bank’s CEO held 90% decision-making power, with no independent board oversight. Promoters pledged 65% of their shares for loans. The CASA ratio fell to 25% (industry: 40%), and wholesale funding dependency rose to 70%.",
+        "output": "CityFirst Bank’s CEO calls all the shots, with no one to question risky moves. The owners borrowed heavily against their shares—if the stock drops, they could lose control. The bank also relies on unstable big-institution loans instead of customer savings, making it a house of cards in a storm."
+    },
+    {
+        "input": "Sunrise Bank’s gross advances grew 55% YoY (industry: 15%), with 50% loans to real estate developers. Slippage ratio (new bad loans) hit 5% (industry: 2%), but reported NPAs stayed at 3%. Net Interest Margin (NIM) fell from 4.2% to 3.1%.",
+        "output": "Sunrise Bank lent recklessly to builders, with half its loans in real estate. While it claims only 3% of loans are bad, new defaults are rising fast. Profits from lending are shrinking—like a store selling more but earning less per sale. A classic sign of chasing growth over stability."
+    },
+    {
+        "input": "Peak Finance’s leverage ratio hit 25:1 (industry safe limit: 10:1). It borrowed short-term funds at high rates to invest in long-term projects. Liquidity coverage ratio (LCR) dropped to 80% (regulatory minimum: 100%).",
+        "output": "Peak Finance is gambling with borrowed money—owing ₹25 for every ₹1 it owns. It’s using expensive, short-term loans for risky long-term bets. If lenders demand repayment suddenly, it won’t have enough cash. Imagine using a payday loan to buy a house: risky and unsustainable."
+    },
+    {
+        "input": "EliteBank’s retail deposits grew 5% YoY, but corporate deposits jumped 40%. Promoter group companies received 30% of total loans. Gross NPAs were reported at 1.8%, but RBI inspection found hidden NPAs of 12%.",
+        "output": "EliteBank favors big corporate clients over regular savers. Shockingly, a third of its loans went to the owners’ own companies. Regulators found it hid 12% bad loans behind fake paperwork—like a student erasing bad grades from a report card."
+    },
+    {
+        "input": "NextGen Bank’s digital lending app disbursed ₹10,000 crore in 2022 (up 300% YoY). However, 25% of loans were to subprime borrowers. Employee attrition in risk management hit 40%, and the CEO publicly dismissed concerns about 'overhyped' credit risks.",
+        "output": "NextGen Bank’s app dishes out loans like candy—tripling its lending in a year. But a quarter of borrowers have poor credit histories. With risk experts quitting in droves and the CEO ignoring warnings, it’s a recipe for disaster. Think of a driver speeding blindfolded because the GPS 'seems fine.'"
+    },
+    {
+        "input": "Heritage Bank’s agricultural loans jumped 60% YoY, but rural incomes fell 15%. Loan waivers spiked, and 20% of farm loans were restructured. The bank’s rural NPA was reported at 4% vs. the regional average of 12%.",
+        "output": "Heritage Bank pushed farm loans despite villages struggling. Many borrowers got extensions or waivers, but the bank insists only 4% of loans are bad—way below nearby banks. This mismatch suggests it’s either lucky or lying. Farmers call it 'Monsoon Roulette': betting on rains to save their loans."
+    },
+    {
+        "input": "StellarBank’s 'Zero-Cost EMI' schemes drove retail loans up 50%. However, 35% of these loans had processing fees hidden in fine print. Net profit rose 20%, but customer complaints to regulators tripled.",
+        "output": "StellarBank lured customers with 'free' EMIs but sneaked in fees. Profits look good, but angry customers are complaining to authorities. It’s like a restaurant advertising 'free dessert' but charging for the spoon—short-term gains, long-term distrust."
+    },
+    {
+        "input": "Unity Bank’s cross-selling ratio hit 5 products per customer (industry: 2). Employees faced strict sales targets, leading to fake insurance policies. The board praised 'customer-centric innovation' while whistleblowers exposed pressure tactics.",
+        "output": "Unity Bank forces staff to push unnecessary policies—5 per customer! Employees fake sales to meet targets, while the board celebrates 'innovation.' It’s a toxic mix of greed and denial, like a factory making broken toys but boasting about production speed."
+    }
+
+
+    
+        {
+            "input": "Alpha Bank was founded in 20XX by Mr X and Mr Y. It quickly gained a reputation as a fast-growing bank. By the late 20YYss, the Bank was one of the top banks, with a strong presence in corporate and retail banking. It consistently reported high growth in profits and assets, earning praise from investors and analysts. In 20XX, the Bank's troubles came to light, revealing a true story of mismanagement, poor governance, and risky lending practices. Key issues included: Bad Loans and NPAs: The bank had accumulated a massive amount of non-performing assets (NPAs) due to reckless lending to stressed corporates. Underreporting of NPAs: The Bank was accused of underreporting its NPAs for years, presenting a healthier financial picture than reality. Governance Failures: The bank was criticised for concentrating power and making high-risk lending decisions without adequate oversight.",
+            "output": "Alpha Bank is known as the new kid on the block in the world of banking. Founded by a charismatic leader, the Bank grew rapidly and became a favorite among investors and customers alike. It promised high returns, innovative services, and a bright future. But, in a hurry to grow, it is lending money to businesses at an astonishing pace—much faster than other banks. While most banks grew by 10-15% a year, Alpha Bank is growing at over 50%! It seems like a success story, but many of these loans are given to risky businesses, like real estate and infrastructure companies, which are already struggling. The bank is taking big risks to show big growth."
+        },
+        {
+            "input": "The Bank reported a significant increase in its loan book, with gross advances growing by XX% year-on-year (YoY), compared to industry averages of around XX-40%. Red Flag: Such rapid growth in lending often indicates aggressive lending practices, which can lead to underwriting risks and a higher probability of non-performing assets (NPAs) in the future.",
+            "output": "Despite its rapid growth, the Bank claims that only a tiny fraction of its loans are bad or unpaid. This is much lower than other banks. It seems too good to be true. It is very likely that the bank is hiding its problems by giving new loans to troubled borrowers to cover up their defaults. This is like sweeping dirt under the carpet and pretending the house is clean."
+        },
+        {
+            "input": "A large portion of the Bank's loan book was concentrated in corporate loans, particularly to high-risk sectors like infrastructure, real estate, and stressed corporates. Red Flag: High exposure to risky sectors increases the likelihood of defaults, especially during economic downturns or sector-specific crises.",
+            "output": "The Bank also has a habit of 'restructuring' loans. This meant giving struggling borrowers more time to repay or changing the terms of the loan to make it easier for them. While this sounds helpful, it is sometimes used as a way to avoid calling these loans 'bad.'"
+        },
+        {
+            "input": "While the reported NPAs were low, the bank's slippage ratio (the rate at which standard assets become NPAs) was high, indicating deteriorating asset quality. Red Flag: A high slippage ratio suggests that the bank's asset quality was worsening, even though it was not fully reflected in the reported NPAs.",
+            "output": "Every bank sets aside some money as a safety net to cover potential losses from bad loans. Alpha Bank’s safety net is much smaller than other banks. While most banks keep 60-70% of their bad loans covered, the Bank has only XX% covered. This meant that if more loans went bad, the bank would not have enough money to handle the losses."
+        },
+        {
+            "input": "The Bank relied heavily on wholesale funding (borrowings from institutions) rather than stable retail deposits. Its CASA ratio (current account savings account) was X%, much lower than the industry average. Red Flag: High dependence on wholesale funding increases liquidity risks, as seen during the 20XX crisis when depositors withdrew funds.",
+            "output": "Unlike other banks that rely on stable deposits from regular customers, Alpha Bank depended heavily on borrowing money from big institutions. This makes it vulnerable. If those institutions ever decide to stop lending, the bank could run into trouble."
+        },
+        {
+            "input": "The annual report of 20XX-1 highlighted concerns about the bank's governance, including: Concentration of Power: The CEO held significant influence over the bank's operations and decision-making. Board Composition: The board lacked adequate independent directors with banking expertise. High Attrition in Key Roles: Frequent changes in senior management and key personnel raised concerns about stability and oversight.",
+            "output": "The CEO has too much control. He makes most of the decisions, and there are not enough independent voices on the board to question him. This lack of checks and balances may result in risky practices going unchecked."
+        },
+        {
+            "input": "A significant portion of the promoter's shares were pledged as collateral for loans. Red Flag: High promoter pledging indicates financial stress at the promoter level, which can spill over to the bank's operations.",
+            "output": "To make matters worse, key executives are leaving the bank, creating instability. The promoters were also borrowing money against their shares in the bank. This means that if the bank’s stock price falls, they could lose control of their shares. It is a risky move, and it shows that even the promoters are in financial trouble."
+        },
+        {
+            "input": "The Bank reported a sharp increase in other income (non-interest income), which included fees, commissions, and gains from financial transactions. Red Flag: A disproportionate increase in other income, especially in a bank heavily reliant on corporate lending, can indicate window dressing of financial statements.",
+            "output": "Rapid growth, impressive profits, and a shiny image can hide serious problems. It’s important to look beyond the surface and ask tough questions. For banks, this means having strong governance, transparent reporting, and a focus on long-term stability—not just short-term gains."
+        },
+        {
+            "input": "Take a cautious call on this bank. The description the Bank is projecting to the public does not match the story reflected in the financial statements.",
+            "output": "Conclusion: If we write a similar story for say, TCS, we can see that it matches the description the Company is projecting to the public."
+        }
+    
+]
+
