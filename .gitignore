@@ -1,0 +1,70 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+dist/
+build/
+coverage/
+*.tgz
+
+# React
+*.js
+*.jsx
+*.ts
+*.tsx
+*.css
+*.scss
+*.sass
+*.html
+*.json
+*.map
+public/static/
+public/favicon.ico
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+.env
+.venv/
+venv/
+env/
+env.bak/
+pip-log.txt
+pip-delete-this-directory.txt
+*.whl
+*.db
+*.sqlite3
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Machine Learning
+model/
+
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Other
+*.bak
+*.tmp
+*.log
