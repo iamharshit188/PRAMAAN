@@ -3,7 +3,7 @@
 
 ### Fine-Tuned Model Overview
 The **Praman** app utilizes a fine-tuned machine learning model to analyze complex financial documents and simplify them into easy-to-understand narratives. This model is built on the foundation of the `flan-t5-base`, specifically fine-tuned for financial data analysis. It converts intricate financial terminologies and metrics into accessible explanations suitable for a wider audience—making financial literacy more achievable for everyone.
-
+![ScreenShot](https://github.com/iamharshit188/PRAMAAN/blob/main/Screenshot%202025-03-28%20at%203.49.24%E2%80%AFPM.png?raw=true)
 ### Key Features of the App
 
 - **Financial Document Upload:**
