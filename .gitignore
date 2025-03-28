@@ -12,15 +12,7 @@ dist/
 *.tgz
 
 # React specific
-*.js
-*.jsx
-*.ts
-*.tsx
-*.css
-*.scss
-*.map
-public/static/
-public/favicon.ico
+
 
 # Python
 __pycache__/
