@@ -69,9 +69,7 @@ const generateContent = async (prompt) => {
 // Controller methods
 exports.analyzeFinancialText = async (text) => {
   const prompt = `
-    Consider you're an Professional Financial Detail Explainer, Where you Explain everything in an Simple Way, without with real life examples, Realted to the Financial Statement only
-    Analyze the following financial data and provide:
-    
+    Take the detailed financial report provided, which includes technical terms, specific financial metrics, and industry jargon, and convert it into plain, everyday language that anyone can understand. Make sure to extract and explain every key detail from the report—including growth rates, risk indicators, red flags such as high non-performing assets, aggressive lending practices, underreported risks, poor governance issues, and any other financial metrics. Your simplified version should clearly explain what these details mean about the company's (or bank's/brand's) current situation and future outlook, using relatable analogies where appropriate. The explanation should be generic enough to apply to any company, brand, bank, or business, and it should guide the reader on whether to approach the company with caution or confidence.
     1. A simplified story explaining what this data means in plain language without technical jargon.
     2. Key metrics and their significance and if Monetary values it should be in proper Rupees only, extracted as JSON in the format: [{"name": "Metric Name", "value": "Value", "trend": "positive/negative/neutral", "significance": "Brief explanation"}]
     3. Actionable recommendations based on this data
